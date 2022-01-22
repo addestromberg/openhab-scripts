@@ -34,3 +34,5 @@ When everything is verified working, Copy the script into a new Rule and set it 
 
 ## Step 7
 Make a nice graph in Grafana. Or/And edit the script to update items in Openhab, say for example, predict best times to wash/dry clothes and dishes, charge car etc. for the next day.
+
+![image](https://user-images.githubusercontent.com/9831898/150636666-7ad97e7a-7812-42d4-96c9-4510833aee08.png)
