@@ -10,7 +10,7 @@ The script is written for my personal use in mind and only tested on my own Open
 - You probably have installed the excellent official [Tibber Binding](https://www.openhab.org/addons/bindings/tibber/), otherwise you should.
 
 ## Step 1
-An easy way to test that the script works is, copy all code into a new script in Openhab: Settings->Scripts->New ECMAScript.
+An easy way to test that the script works is, copy all code from the [tibberTomorrowImport.js](tibberTomorrowImport.js) into a new script in Openhab: Settings->Scripts->New ECMAScript.
 
 ## Step 2
 Create a new Database and User with write permissions to said DB. Either from cli tool or if you are lazy like me install Chronograf. 
