@@ -7,6 +7,7 @@ The script is written for my personal use in mind and only tested on my own Open
 - InfluxDB 1.8.10 (Installed from openhabian-config Influx+Grafana)
 - Grafana 8.3.4   (Installed from openhabian-config Influx+Grafana)
 - Active Tibber Subscription with API token generated
+- You probably have installed the excellent official [Tibber Binding](https://www.openhab.org/addons/bindings/tibber/), otherwise you should.
 
 ## Step 1
 An easy way to test that the script works is, copy all code into a new script in Openhab: Settings->Scripts->New ECMAScript.
